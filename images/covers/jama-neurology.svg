@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="260" viewBox="0 0 200 260">
+  <rect x="0" y="0" width="200" height="260" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/>
+  <rect x="0" y="0" width="200" height="60" fill="#8b1a1a"/>
+  <text x="100" y="38" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Journal Cover</text>
+  <text x="100" y="130" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="bold" fill="#8b1a1a" text-anchor="middle">JAMA</text>
+  <text x="100" y="158" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="bold" fill="#8b1a1a" text-anchor="middle">Neurology</text>
+  <text x="100" y="186" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#666666" text-anchor="middle">JAMA Neurology</text>
+</svg>

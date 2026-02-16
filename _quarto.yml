@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ruijia Chen"
+  navbar:
+    background: white
+    foreground: dark
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Invited Lectures & Talks
+      - href: https://github.com/Aging-Social-Epi
+        text: GitHub
+
+  page-footer:
+    center: "&copy; 2026 Ruijia Chen. Powered by Quarto."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    include-before-body: _sidebar.html

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="260" viewBox="0 0 200 260">
+  <rect x="0" y="0" width="200" height="260" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/>
+  <rect x="0" y="0" width="200" height="60" fill="#5a3892"/>
+  <text x="100" y="38" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Journal Cover</text>
+  <text x="100" y="125" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-weight="bold" fill="#5a3892" text-anchor="middle">Alz Dement</text>
+  <text x="100" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-weight="bold" fill="#5a3892" text-anchor="middle">TRCI</text>
+  <text x="100" y="180" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#666666" text-anchor="middle">Alzheimer's &amp; Dementia:</text>
+  <text x="100" y="193" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#666666" text-anchor="middle">Translational Research &amp;</text>
+  <text x="100" y="206" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#666666" text-anchor="middle">Clinical Interventions</text>
+</svg>

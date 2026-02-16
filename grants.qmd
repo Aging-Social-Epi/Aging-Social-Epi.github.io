@@ -1,0 +1,43 @@
+---
+title: "Grants"
+---
+
+::: {.grant-card}
+### [K99/R00: Bridging Social Epidemiology and Policy for ADRD Prevention: Effects of Poverty Alleviation Policies on Alzheimer's Disease and Related Dementias Risk and Disparities]{.grant-title}
+
+**Principal Investigator**
+
+This project is supported by a K99 award from the National Institute on Aging and aims to quantify the impact of poverty alleviation policies on ADRD risk and disparities.
+
+[K99 on NIH Reporter](https://reporter.nih.gov/search/m8x2OSVBKE6KJkeeVYUg4Q/project-details/11135997)
+:::
+
+::: {.grant-card}
+### [Social isolation and dementia risk: cross-national and temporal comparison]{.grant-title}
+
+**Principal Investigator**
+
+This project, supported by the Alzheimer's Association, applies advanced causal inference methods to investigate how social isolation affects dementia risk before and after the pandemic across multiple countries.
+
+[View on Alzheimer's Association](https://www.alz.org/research/for_researchers/grants/funded-studies-details?FundedStudyID=3393)
+:::
+
+::: {.grant-card}
+### [F99/K00: Lifecourse Stressors and Social Disparities in Cognitive Aging: The Roles of Social Networks and Sleep Disturbance]{.grant-title}
+
+**Principal Investigator**
+
+This project is funded by a F99/K00 award from the National Institute on Aging, and it aims to quantify how stress exposures across the life course contribute to risk and disparities in cognitive aging, and to examine the roles of social networks and sleep disturbances in these processes.
+
+[K00 on NIH Reporter](https://reporter.nih.gov/search/DaemD3gSE069tAwqxgmDAw/project-details/10895443)
+:::
+
+::: {.grant-card}
+### [P01: Triangulation of Innovative Methods to End Alzheimer's Disease (TIME-AD)]{.grant-title}
+
+**Co-Investigator**
+
+Improving Causal Inference in Alzheimer's Disease Prevention Research on Modifiable Risk Factors: The Triangulation of Innovative Methods to End AD (TIME-AD) Project.
+
+[TIME-AD Project Website](https://www.time-ad.org/)
+:::

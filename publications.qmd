@@ -1,0 +1,108 @@
+---
+title: ""
+---
+
+<div class="pub-header">
+<h2 style="border-bottom: none; margin-top: 0;">Selected Publications</h2>
+<p class="pub-subtitle">For a complete list, see <a href="https://scholar.google.com/citations?user=0uCgFkkAAAAJ&hl=en&oi=ao">Google Scholar</a>. * denotes co-first authorship.</p>
+</div>
+
+<div class="pub-card">
+<div class="pub-card-title">Quantifying the population-level impact of insomnia on dementia among older adults in the United States</div>
+<div class="pub-card-authors">Lin, Y., Wu, F., Wu, Y., Liu, W., Danaei, G., & <strong>Chen, R.</strong> (senior author)</div>
+<div class="pub-card-meta">
+<span class="pub-badge journal">The Journals of Gerontology: Series A</span>
+<span class="pub-badge year">2025</span>
+</div>
+</div>
+
+<div class="pub-card">
+<div class="pub-card-title">Independent and joint associations of key social exposome components with cognitive aging: Triangulating evidence through cross-national data</div>
+<div class="pub-card-authors"><strong>Chen, R.</strong>, Lee, H., Wang, J., Yang, Y., Okuzono, S. S., Nishimi, K., Kobayashi, L., Glymour, M. M., & Kubzansky, L. D.</div>
+<div class="pub-card-meta">
+<span class="pub-badge journal">American Journal of Epidemiology</span>
+<span class="pub-badge year">2025</span>
+<a href="https://doi.org/10.1093/aje/kwaf189" class="pub-badge doi">DOI</a>
+</div>
+</div>
+
+<div class="pub-card">
+<div class="pub-card-title">The association of Alzheimer's disease genetic risk with social connectedness in middle- and older-ages</div>
+<div class="pub-card-authors">Zimmerman, S. C.*, <strong>Chen, R.</strong>*, Thoma, M., Pacca, L., Hebert, J., Riley, A., ... & Torres, J. M.</div>
+<div class="pub-card-meta">
+<span class="pub-badge journal">American Journal of Epidemiology</span>
+<span class="pub-badge year">2025</span>
+<a href="https://doi.org/10.1093/aje/kwaf122" class="pub-badge doi">DOI</a>
+</div>
+</div>
+
+<div class="pub-card">
+<div class="pub-card-title">Excess mortality with Alzheimer disease and related dementias as an underlying or contributing cause during the COVID-19 pandemic in the US</div>
+<div class="pub-card-authors"><strong>Chen, R.</strong>, Charpignon, M.-L., Raquib, R. V., Wang, J., Meza, E., Aschmann, H. E., DeVost, M. A., Mooney, A., Bibbins-Domingo, K., Riley, A. R., Kiang, M. V., Chen, Y.-H., Stokes, A. C., & Glymour, M. M.</div>
+<div class="pub-card-meta">
+<span class="pub-badge journal">JAMA Neurology</span>
+<span class="pub-badge year">2023</span>
+<span class="pub-badge editor">Editor's Choice</span>
+<a href="https://doi.org/10.1001/jamaneurol.2023.2226" class="pub-badge doi">DOI</a>
+</div>
+</div>
+
+<div class="pub-card">
+<div class="pub-card-title">Pragmatic approaches to handling practice effects in longitudinal cognitive aging research</div>
+<div class="pub-card-authors"><strong>Chen, R.</strong>, Calmasini, C., Swinnerton, K., Wang, J., Haneuse, S., Ackley, S. F., Hirst, A. K., Hayes-Larson, E., George, K. M., Peterson, R., Soh, Y., Barnes, L. L., Mayeda, E. R., Gilsanz, P., Mungas, D. M., Whitmer, R. A., Corrada, M. M., & Glymour, M. M.</div>
+<div class="pub-card-meta">
+<span class="pub-badge journal">Alzheimer's & Dementia</span>
+<span class="pub-badge year">2023</span>
+<a href="https://doi.org/10.1002/alz.13067" class="pub-badge doi">DOI</a>
+</div>
+</div>
+
+<div class="pub-card">
+<div class="pub-card-title">Racial and ethnic disparities in estimated excess mortality from external causes in the US, March to December 2020</div>
+<div class="pub-card-authors"><strong>Chen, R.</strong>, Aschmann, H. E., Chen, Y.-H., Glymour, M. M., Bibbins-Domingo, K., Stokes, A. C., & Kiang, M. V.</div>
+<div class="pub-card-meta">
+<span class="pub-badge journal">JAMA Internal Medicine</span>
+<span class="pub-badge year">2022</span>
+<a href="https://doi.org/10.1001/jamainternmed.2022.1461" class="pub-badge doi">DOI</a>
+</div>
+</div>
+
+<div class="pub-card">
+<div class="pub-card-title">Evaluation of racial and ethnic heterogeneity in the associations of sleep quality and sleep apnea risk with cognitive function and cognitive decline</div>
+<div class="pub-card-authors"><strong>Chen, R.</strong>, Wang, J., Pederson, A. M., Prather, A. A., Hirst, A. K., Ackley, S., Hokett, E., George, K. M., Mungas, D., Mayeda, E. R., Gilsanz, P., Haneuse, S., Whitmer, R. A., & Glymour, M. M.</div>
+<div class="pub-card-meta">
+<span class="pub-badge journal">Alzheimer's & Dementia: TRCI</span>
+<span class="pub-badge year">2024</span>
+<a href="https://doi.org/10.1002/trc2.12441" class="pub-badge doi">DOI</a>
+</div>
+</div>
+
+<div class="pub-card">
+<div class="pub-card-title">A life course approach to understanding stress exposures and cognitive function among middle-aged and older adults</div>
+<div class="pub-card-authors"><strong>Chen, R.</strong>, Williams, D. R., Nishimi, K., Slopen, N., Kubzansky, L. D., & Weuve, J.</div>
+<div class="pub-card-meta">
+<span class="pub-badge journal">Social Science & Medicine</span>
+<span class="pub-badge year">2022</span>
+<a href="https://doi.org/10.1016/j.socscimed.2022.115448" class="pub-badge doi">DOI</a>
+</div>
+</div>
+
+<div class="pub-card">
+<div class="pub-card-title">Racial disparities in cognitive function among middle-aged and older adults: The roles of cumulative stress exposures across the life course</div>
+<div class="pub-card-authors"><strong>Chen, R.</strong>, Weuve, J., Misra, S., Cuevas, A., Kubzansky, L. D., & Williams, D. R.</div>
+<div class="pub-card-meta">
+<span class="pub-badge journal">The Journals of Gerontology: Series A</span>
+<span class="pub-badge year">2022</span>
+<a href="https://doi.org/10.1093/gerona/glab099" class="pub-badge doi">DOI</a>
+</div>
+</div>
+
+<div class="pub-card">
+<div class="pub-card-title">Racial and ethnic differences in individual-level and area-based socioeconomic status and 12-month DSM-IV mental disorders</div>
+<div class="pub-card-authors"><strong>Chen, R.</strong>, Kessler, R. C., Sadikova, E., NeMoyer, A., Sampson, N. A., Alvarez, K., Vilsaint, C. L., Green, J. G., McLaughlin, K. A., Jackson, J. S., Alegría, M., & Williams, D. R.</div>
+<div class="pub-card-meta">
+<span class="pub-badge journal">Journal of Psychiatric Research</span>
+<span class="pub-badge year">2019</span>
+<a href="https://doi.org/10.1016/j.jpsychires.2019.09.006" class="pub-badge doi">DOI</a>
+</div>
+</div>
