@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Ruijia Chen"
+  google-analytics: "G-FPBMKZS90Z"
   navbar:
     background: white
     foreground: dark
