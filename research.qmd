@@ -113,7 +113,7 @@ The social epidemiologic research that we are doing is not only to shed light on
 ::: {}
 With the increasing availability of large-scale data, the development of new analytic approaches, and recent advances in artificial intelligence, we are in a moment of unusual opportunity to engage more deeply with the nuances in which social factors shape health outcomes.
 
-At the same time, the rapid expansion of data and methods raises important concerns about reproducibility of knowledge and the rigorous handling of bias, such as confounding, selection processes, and reverse causality. In collaboration with Maria Glymour (Brown University), Sarah Ackley (Brown University), Jingxuan Wang (Harvard), and colleagues, my work applies causal inference methods to address some of the key methodological challenges in social epidemiology research.
+At the same time, the rapid expansion of data and methods raises important concerns about reproducibility of knowledge and the rigorous handling of bias, such as confounding, selection processes, and reverse causality. In collaboration with Maria Glymour (Boston University), Sarah Ackley (Brown University), Jingxuan Wang (Harvard), and colleagues, my work applies causal inference methods to address some of the key methodological challenges in social epidemiology research.
 :::
 
 ::: {}
