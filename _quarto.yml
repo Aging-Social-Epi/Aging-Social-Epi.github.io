@@ -24,10 +24,10 @@ website:
         text: Invited Lectures & Talks
       - href: news.qmd
         text: In the News
-      - href: contact.qmd
-        text: Contact
       - href: https://github.com/Aging-Social-Epi
         text: GitHub
+      - href: contact.qmd
+        text: Contact
 
   page-footer:
     center: "&copy; 2026 Ruijia Chen. Powered by Quarto."
