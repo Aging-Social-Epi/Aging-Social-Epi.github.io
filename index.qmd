@@ -6,7 +6,7 @@ I am a social epidemiologist studying how social and policy contexts shape cogni
 
 My research combines social epidemiology with advanced quantitative methods to examine how social disadvantage, including financial strain, discrimination, and social isolation, affects cognitive health. I use big data, causal inference approaches, and cross-national comparisons to identify drivers of disparities and inform policy solutions. See my [Research](research.qmd) page for current projects.
 
-I received my ScD in Social Epidemiology from Harvard University and my MS in Social Policy from the University of Pennsylvania. I completed the first two years of my postdoctoral training in the Department of Epidemiology and Biostatistics at UCSF.
+I am an NIA K99/R00 fellow and previously an F99/K00 fellow. I received my ScD in Social Epidemiology from Harvard University and my MS in Social Policy from the University of Pennsylvania. I completed the first two years of my postdoctoral training in the Department of Epidemiology and Biostatistics at UCSF.
 
 ---
 
