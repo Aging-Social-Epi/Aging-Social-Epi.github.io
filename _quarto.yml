@@ -22,6 +22,8 @@ website:
         text: Publications
       - href: talks.qmd
         text: Invited Lectures & Talks
+      - href: news.qmd
+        text: In the News
       - href: https://github.com/Aging-Social-Epi
         text: GitHub
 
