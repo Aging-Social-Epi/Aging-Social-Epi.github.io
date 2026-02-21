@@ -4,6 +4,9 @@ project:
   resources:
     - CNAME
 
+execute:
+  freeze: false
+
 website:
   title: "Ruijia Chen"
   google-analytics: "G-FPBMKZS90Z"
