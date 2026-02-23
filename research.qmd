@@ -97,9 +97,7 @@ My work identifies who is most affected by disease, where health inequities are 
 
 Beyond documenting disparities, my research examines how existing social policies, such as pension systems, shape population health. Social policies shape access to resources, structure exposure to risks, and provide forms of protection across the life course. They play a fundamental role in producing and sustaining health inequalities.
 
-While rigorous evidence is necessary, it is not sufficient. The broader aim of my work is to contribute policy-relevant knowledge that can inform interventions and social policies that meaningfully improve population health and reduce inequalities. Supported by a K99/R00 grant, my current research bridges social epidemiology and policy by examining how social policies in the United States and across countries shape dementia-related outcomes over the life course.
-
-The social epidemiologic research that we are doing is not only to shed light on how social factors influence health, but more importantly to investigate how these findings can be translated into policy and programs. I view "translation" as operating not only at the state and national policy levels, but also at the community level, where policies and programs are implemented and experienced. Partnerships with community organizations offer an important pathway for translating these findings into programs that are responsive to local contexts and lived experience.
+Rigorous causal evidence is necessary but not sufficient. The goal of this research is to generate actionable evidence that can inform upstream interventions at multiple levels: population-level policy, community-based programs, and targeted strategies for groups bearing the greatest burden of disease. Partnerships with community organizations are important for ensuring that epidemiologic findings are translated into interventions that are responsive to local contexts and the lived experiences of the populations most affected by inequality.
 :::
 
 :::
