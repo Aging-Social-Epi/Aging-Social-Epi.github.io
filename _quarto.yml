@@ -21,7 +21,7 @@ website:
       - href: publications.qmd
         text: Publications
       - href: talks.qmd
-        text: Teaching and Invited Lectures
+        text: Teaching & Talks
       - href: news.qmd
         text: Media
       - href: https://github.com/2018Ruijia
