@@ -2,6 +2,10 @@
 title: "Teaching and Invited Lectures"
 ---
 
+Invited guest lecture: **Environmental, Social, and Biological Contexts of Aging** \
+A Population Health Equity Approach to Aging and Alzheimer's Disease Disparities \
+NYU Langone, Department of Population Health (3/2026)
+
 Invited guest lecture: **Methodological Concerns in Studying Social Determinants of Aging** \
 Epi 254: Topics in Epidemiology of Aging \
 Harvard University, Department of Epidemiology (2/17/2026)
