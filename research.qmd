@@ -63,7 +63,7 @@ NIH P01: Improving Causal Inference in Alzheimer's Disease Prevention Research o
 
 **Selected papers:**
 
-(co-first) Zimmerman, S.C., Chen, R., Thoma, M., Pacca, L., Hebert, J., Riley, A., Kim, M.H., Pederson, A., Yang, Y., Buto, P. and Brenowitz, W.D. (2025). The Association of Alzheimer's Disease Genetic Risk with Social Connectedness in Middle-And Older-Ages. American Journal of Epidemiology, kwaf122.
+(co-first) Zimmerman, S. C.\*, Chen, R.\*, Thoma, M., Pacca, L., Hebert, J., Riley, A., Kim, M. H., Pederson, A., Yang, Y., Buto, P., Brenowitz, W. D., Glymour, M. M., Kotwal, A.#, & Torres, J. M.# (2025). The Association of Alzheimer's Disease Genetic Risk with Social Connectedness in Middle- and Older-Ages. American Journal of Epidemiology, kwaf122.
 
 Chen, R., Tran, D., Wang, J., Ferguson, E., Thoma, M., Kotal, A., Torres, J. and Glymour, M.M. (2025). Social Isolation and Cognitive Aging: Are Operational Definitions Creating a Reproducibility Crisis? Innovation in Aging, 9(Supplement_2), igaf122-1859.
 
