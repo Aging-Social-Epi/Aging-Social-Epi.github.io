@@ -117,7 +117,7 @@ At the same time, the rapid expansion of data and methods raises important conce
 ::: {}
 **Selected papers:**
 
-Chen, R., Calmasini, C., Swinnerton, K., Wang, J., Haneuse, S., Ackley, S.F., Hirst, A.K., Hayes-Larson, E., George, K.M., Peterson, R. and Soh, Y. (2023). Pragmatic approaches to handling practice effects in longitudinal cognitive aging research. Alzheimer's & Dementia, 19(9), 4028-4036.
+Chen, R., Calmasini, C., Swinnerton, K., Wang, J., Hirst, A.K., Haneuse, S., Ackley, S., George, K.M., Peterson, R., Soh, Y., Hayes-Larson, E., Barnes, L.L., Mayeda, E.R., Gilsanz, P., Mungas, D., Whitmer, R., Corrada, M., Glymour, M.M. (2022). Pragmatic Approaches to Handling Practice Effects in Longitudinal Cognitive Aging Research. Alzheimer's & Dementia, 19(9):4028-4036.
 
 Ackley, S.F., Andrews, R.M., Seaman, C., Flanders, M., Chen, R., Wang, J., Lopes, G., Sims, K.D., Buto, P., Ferguson, E. and Allen, I.E. (2025). Trends in the distribution of P values in epidemiology journals: a statistical, P-curve, and simulation study. American Journal of Epidemiology, 194(12), 3630-3639.
 :::
