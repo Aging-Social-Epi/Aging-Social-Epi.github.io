@@ -63,6 +63,8 @@ NIH P01: Improving Causal Inference in Alzheimer's Disease Prevention Research o
 
 **Selected papers:**
 
+Chen, R., Posis, A. I. B., Pederson, A. M., Wang, J., Hirst, A. K., Rojas-Saunero, L. P., Kim, Y. J., Haneuse, S., Peterson, R., Mungas, D., Torres, J. M., Mayeda, E. R., Gilsanz, P., Whitmer, R. A., Corrada, M. M., & Glymour, M. M. (2026). Social network characteristics and cognitive function, decline, and mortality: A joint modeling approach. Alzheimer's & Dementia, 22(7), e71600.
+
 (co-first) Zimmerman, S. C.\*, Chen, R.\*, Thoma, M., Pacca, L., Hebert, J., Riley, A., Kim, M. H., Pederson, A., Yang, Y., Buto, P., Brenowitz, W. D., Glymour, M. M., Kotwal, A.#, & Torres, J. M.# (2025). The Association of Alzheimer's Disease Genetic Risk with Social Connectedness in Middle- and Older-Ages. American Journal of Epidemiology, kwaf122.
 
 Chen, R., Tran, D., Wang, J., Ferguson, E., Thoma, M., Kotal, A., Torres, J. and Glymour, M.M. (2025). Social Isolation and Cognitive Aging: Are Operational Definitions Creating a Reproducibility Crisis? Innovation in Aging, 9(Supplement_2), igaf122-1859.

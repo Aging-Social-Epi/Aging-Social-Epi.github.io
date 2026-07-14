@@ -8,6 +8,16 @@ title: ""
 </div>
 
 <div class="pub-card">
+<div class="pub-card-title">Social network characteristics and cognitive function, decline, and mortality: A joint modeling approach</div>
+<div class="pub-card-authors"><strong>Chen, R.</strong>, Posis, A. I. B., Pederson, A. M., Wang, J., Hirst, A. K., Rojas-Saunero, L. P., Kim, Y. J., Haneuse, S., Peterson, R., Mungas, D., Torres, J. M., Mayeda, E. R., Gilsanz, P., Whitmer, R. A., Corrada, M. M., & Glymour, M. M.</div>
+<div class="pub-card-meta">
+<span class="pub-badge journal">Alzheimer's & Dementia</span>
+<span class="pub-badge year">2026</span>
+<a href="https://doi.org/10.1002/alz.71600" class="pub-badge doi">DOI</a>
+</div>
+</div>
+
+<div class="pub-card">
 <div class="pub-card-title">Quantifying the population-level impact of insomnia on dementia among older adults in the United States</div>
 <div class="pub-card-authors">Lin, Y., Wu, F., Wu, Y., Liu, W., Danaei, G., & <strong>Chen, R.</strong> (senior author)</div>
 <div class="pub-card-meta">
